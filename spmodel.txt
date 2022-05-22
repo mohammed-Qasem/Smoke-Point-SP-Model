@@ -2,10 +2,11 @@
 % 10 features of the input  and one output are loaded and the network is
 %  trained to generate a suitable prediction model 
 % The Authors:
-% 1. Mohammed Ameen Ahmed Qasem  
-% 3. Abdul Gani Abdul Jameel   
-% 4.Eid Al Mutairi      
-
+% 1. Mohammed Ameen Ahmed Qasem
+% 2. S. Mani Sarathy
+% 3. Eid Al Mutairi 
+% 4. Abdul Gani Abdul Jameel     
+  
 %--------------------------------------------------------------------
 clc;
 chos = 0;
